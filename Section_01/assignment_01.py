@@ -6,43 +6,6 @@
 
 """
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Solution:
-
-# remainder = 15 % 4
-# print(remainder)
+remainder = 15 % 4
+print(remainder)
 
